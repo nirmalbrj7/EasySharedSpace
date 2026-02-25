@@ -1,0 +1,25 @@
+{
+  "name": "com.easysharedspace.multiplayer",
+  "version": "1.0.0",
+  "displayName": "Easy Shared Space",
+  "description": "Simple multiplayer shared spatial space for Unity. Easily share positions, spawn objects, and create persistent anchors in a shared coordinate space.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.netcode.gameobjects": "1.7.0",
+    "com.unity.transport": "2.1.0"
+  },
+  "keywords": [
+    "multiplayer",
+    "networking",
+    "shared space",
+    "spatial anchors",
+    "collaboration",
+    "xr",
+    "ar",
+    "vr"
+  ],
+  "author": {
+    "name": "Nirmal Adhikari",
+    "email": "support@nirmalad.com.np"
+  }
+}
