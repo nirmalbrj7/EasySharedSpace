@@ -17,7 +17,7 @@ Suitable for prototyping, research, VR apps (Meta Quest), and fully-featured gam
 
 ## Installation & Quick Setup
 
-Please refer to the [Publishing & Installation Guide](docs/publish_guide.md) to learn how to add this package to your Unity project via the Unity Package Manager (UPM).
+Please refer to the [Publishing & Installation Guide](docs) to learn how to add this package to your Unity project via the Unity Package Manager (UPM).
 
 ### Minimum Dependencies
 - `com.unity.netcode.gameobjects`
