@@ -1,5 +1,5 @@
 {
-  "name": "com.easysharedspace.multiplayer",
+  "name": "com.nirmalad.easysharedspace",
   "version": "1.0.0",
   "displayName": "Easy Shared Space",
   "description": "Simple multiplayer shared spatial space for Unity. Easily share positions, spawn objects, and create persistent anchors in a shared coordinate space.",
